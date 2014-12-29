@@ -1,0 +1,16 @@
+[{
+    "id": 0,
+    "name": "Airmail Beta",
+    "description": "The best client mail",
+    "face": "https://dl0tgz6ee3upo.cloudfront.net/production/apps/icons/000/015/417/retina/b21865c267ea7eadd775fe42e3735954.png"
+  }, {
+    "id": 1,
+    "name": "Dash",
+    "description": "One perfect documentation tool",
+    "face": "http://kapeli.com/dash_resources/256.png"
+  }, {
+    "id": 2,
+    "name": "Photoshop",
+    "description": "An amazing app for graphist",
+    "face": "http://upload.wikimedia.org/wikipedia/en/archive/2/20/20130624173205!Photoshop_CC_icon.png"
+  }]
